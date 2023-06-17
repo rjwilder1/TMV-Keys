@@ -1,3 +1,2 @@
-Version 1.2
-
+Version 1.0
 DNXKH-NPJMM-WWKSJ-CURHH
